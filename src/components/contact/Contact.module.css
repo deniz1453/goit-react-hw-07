@@ -1,0 +1,27 @@
+.contactDiv {
+  display: flex;
+  width: 280px;
+  border: solid 1px white;
+}
+.dltButton {
+  background-color: #242424;
+  color: red;
+  border: solid 1px white;
+  border-radius: 5px;
+          width: 80px;
+        height: 40px;
+        padding: 2px;
+  margin: 5px;
+}
+.dltButton:hover {
+  color: white;
+  background-color: red;
+  cursor: pointer;
+}
+.contactInfo {
+    margin-left: 5px;
+}
+.icons {
+    margin-right: 10px;
+
+}
